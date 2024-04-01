@@ -13,3 +13,4 @@ numpy
 openpyxl
 matplotlib
 scikit-learn
+pickle
